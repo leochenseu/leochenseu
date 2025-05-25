@@ -12,10 +12,15 @@
 
 ## 📖 近期工作
 - 📄 论文：
+
 (1) Erzhuo Chen; Vlad Dubrovenski; Dianxiang Xu ; Detecting Errors in NGAC Policies Via Fault-Based Testing, IEEE Transactions on Dependable and Secure Computing (TDSC), 2024, 22(1): 263-278 
+
 (2) Erzhuo Chen; Vladislav Dubrovenski; Dianxiang Xu ; Mutation Analysis of NGAC Policies, SACMAT '21: The 26th ACM Symposium on Access Control Models and Technologies
+
 (3) Erzhuo Chen; Vladislav Dubrovenski; Dianxiang Xu ; Coverage-Based Testing of Obligations in NGAC Systems, SACMAT '23: The 28th ACM Symposium on Access Control Models and Technologies
+
 (4) Vladislav Dubrovenski; Erzhuo Chen; Dianxiang Xu ; SMT-Based Verification of NGAC Policies, COMPSAC '23: The IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)
+
 (5) Vladislav Dubrovenski; Md Nazmul Karim; Erzhuo Chen; Dianxiang Xu ; Dynamic Access Control with Administrative Obligations: A Case Study, QRS '23: The IEEE 23rd International Conference on Software Quality, Reliability, and Security Companion (QRS-C)
 - 💻 项目：
 - 📚 教学：
